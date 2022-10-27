@@ -285,10 +285,7 @@ Research Program. *NEW ENGLAND JOURNAL OF MEDICINE*, *381*(19),
 Vegter, M. (2018). Towards precision medicine; a new biomedical
 cosmology. *MEDICINE HEALTH CARE AND PHILOSOPHY*, *21*(4), 443–456.
 https://doi.org/10.1007/s11019-018-9828-z  
-  
-Vegter, M., Landeweerd, L., & Zwart, H. (2022). N = many me’s:
-Self-surveillance for Precision Public Health. *BIOSOCIETIES*, *17*(1),
-78–98. https://doi.org/10.1057/s41292-020-00202-8  
+ 
   
 Venner, E., Muzny, D., Smith, J., Walker, K., Neben, C., Lockwood, C.,
 Empey, P., Metcalf, G., Kachulis, C., Mian, S., Musick, A., Rehm, H.,
