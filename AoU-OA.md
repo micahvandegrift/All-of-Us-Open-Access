@@ -25,7 +25,7 @@ Antibodies to Severe Acute Respiratory Syndrome Coronavirus 2
 March 2020. *CLINICAL INFECTIOUS DISEASES*, *74*(4), 584–590.
 https://doi.org/10.1093/cid/ciab519  
   
-Barr, P., Bigdeli, T., & Meyers, J. (n.d.). Prevalence, Comorbidity, and
+Barr, P., Bigdeli, T., & Meyers, J. (n.d.). [Correction] Prevalence, Comorbidity, and
 Sociodemographic Correlates of Psychiatric Diagnoses Reported in the All
 of Us Research Program (vol 79, pg 622, 2022). *JAMA PSYCHIATRY*.
 https://doi.org/10.1001/jamapsychiatry.2022.2817  
